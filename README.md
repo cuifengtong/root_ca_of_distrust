@@ -3,7 +3,7 @@
 + CNNIC Root CA
 + CNNIC DQ CA
 + Alipay Root CA
-如果大家发现了更多的流氓CA，欢迎发布PR/ISSUE来反馈！
+如果大家发现了其他的流氓CA，欢迎发布PR/ISSUE来反馈！
 
 # 使用
 
